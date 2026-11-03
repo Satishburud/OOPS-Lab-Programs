@@ -8,10 +8,10 @@ A collection of C++ programs developed as part of the Object-Oriented Programmin
 
 | **Field** | **Details** |
 | --------- | ----------- |
-| **Name** | Chetan Sankannavar|
-| **Roll No.** | 533 |
+| **Name** | Satish Burud|
+| **Roll No.** | 537 |
 | **Division** | E |
-| **SRN** | 01FE23BEC266 |
+| **SRN** | 01FE23BEC271 |
 | **Semester** | VII |
 
 ---
